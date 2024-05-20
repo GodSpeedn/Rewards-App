@@ -1,0 +1,71 @@
+#appName{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+    color:#d44500 ;
+    font-size: 2em;
+}
+#welcom{
+
+    padding: 20px 0px 10px 15px ;
+    color: #d42e00;
+}
+
+
+
+#available{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+   
+    
+}
+
+#points{
+    display: flex;
+   
+    
+}
+#main-card{
+    height: 10rem;
+    width: auto;
+}
+
+#p{
+    
+  color: #c03030;
+}
+#points-image{
+    width: 150px;
+    height: 150px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#container{
+
+    padding: 20px 10px 10px 10px ;
+}
+
+#heading{
+    padding-top: 20px;
+    padding-bottom: 10px ;
+  margin-right: auto;
+  margin-left: auto;
+
+}
+#card-Image{
+    width: 100%;
+    
+height: 100%;   
+ border-radius: 10px;
+    transition: transform 0.3s ease-in-out;
+    margin: 3px;
+}
+#card-Image:hover{transform: scale(1.1);
+
+
+}
+.card{
+    transition: transform 0.3s ease-in-out;
+}
+.card:hover{
+    transform: scale(1.1);
+}
